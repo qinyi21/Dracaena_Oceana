@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Hello World Mod</name>
+  <author>Jinkeloid</author>
+  <url>https://github.com/CatAzreal</url>
+  <description>A simple mod that displays a hello world window with an image and text.</description>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+</ModMetaData>
